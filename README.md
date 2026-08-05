@@ -1,5 +1,4 @@
-# Data-Integration-
-This is the final project for the B142 Data Integration course
+# Multi-City Airbnb Pipline & Market Analysis
 # Instructions for Loading the Data (Databricks Setup)
 
 ## 1. Import the DB File

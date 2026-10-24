@@ -1,4 +1,4 @@
-# Multi-City Airbnb Pipline & Market Analysis
+# Airbnb Multi-City Pipeline
 # Instructions for Loading the Data (Databricks Setup)
 
 ## 1. Import the DB File
